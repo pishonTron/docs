@@ -1,2 +1,1 @@
-# docs
-white paper of bfc
+![](币付宝白皮书.pdf)
